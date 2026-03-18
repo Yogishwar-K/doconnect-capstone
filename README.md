@@ -50,7 +50,7 @@ Create a `.env` file in the root of the `backend` directory. You will need to co
 
 Start the backend server:
 
-    npm start
+    npm run dev
 
 The backend API and WebSocket server will run on `http://localhost:5000`.
 
